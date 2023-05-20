@@ -62,7 +62,11 @@ body {
   tr {
     background: #f4f7f8;
     border-bottom: 1px solid #FFF;
+<<<<<<< HEAD
     margin-bottom: 5px;
+=======
+    margin-bottom: 6px;
+>>>>>>> Daniel
   }
   
   th, td {
